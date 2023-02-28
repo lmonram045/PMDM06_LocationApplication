@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationApplication</string>
+    <string name="hintxtConnectionStatus">Muestra el estado de la conexión</string>
+    <string name="hintxtLocationRequest">Muestra la localizacioń actual</string>
+</resources>
